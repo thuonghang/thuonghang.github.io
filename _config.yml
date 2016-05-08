@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "vi-VN"
+title                    : "Chuyện Thường Hằng"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Blog"
+description              : "Vô thường và Thường hằng"
+url                      : "thuonghang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -61,9 +61,9 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Taiji Binary"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Do you know Võ Thường Hằnge"
   location         : "Somewhere"
   email            :
   uri              :
