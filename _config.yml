@@ -9,7 +9,7 @@
 locale                   : "vi-VN"
 title                    : "Chuyện Thường Hằng"
 title_separator          : "-"
-name                     : "Blog"
+name                     : "Blog chuyện Thường Hằng"
 description              : "Vô thường và Thường hằng"
 url                      : "thuonghang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
